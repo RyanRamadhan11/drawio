@@ -1,72 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T13:01:19.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WQBUvSODWpNyIDTgRYu4" version="21.3.8" type="github">
-  <diagram name="Halaman-1" id="PJ1DCXdF3awHEuUyO09a">
-    <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-06-10T13:38:56.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.3.8" etag="WQ5wZvpTnEtkBc5bazgx" type="github">
+  <diagram name="Halaman-1" id="xa_9cUXO3RMpBKNxqR6e">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-1" value="Diagram Alir Sistem Pakar" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;align=center;width=90;height=30;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="430" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Input Data Pasien&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="190" width="155" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="160" as="sourcePoint" />
-            <mxPoint x="320" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uMXOcB_HCX3pOTTdQGim-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="170" as="sourcePoint" />
-            <mxPoint x="320" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;Input Data Gejala Serta Keyakinan Kondisi&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="242" y="280" width="155" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uMXOcB_HCX3pOTTdQGim-8" target="uMXOcB_HCX3pOTTdQGim-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="360" as="sourcePoint" />
-            <mxPoint x="330" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Proses Penalaran Metode Forward Chaining&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240.5" y="377" width="158" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Proses Perhitungan Nilai CF Metode Certainty Factor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240.5" y="460" width="158" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.26" y="427" as="sourcePoint" />
-            <mxPoint x="319.59" y="459" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="110" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.26000000000005" y="510" as="sourcePoint" />
-            <mxPoint x="319.59000000000003" y="542" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-19" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Output Hasil Diagnosis Sistem Pakar&amp;nbsp;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="543" width="129.5" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.26000000000005" y="593" as="sourcePoint" />
-            <mxPoint x="319.59000000000003" y="625" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMXOcB_HCX3pOTTdQGim-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="626" width="100" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
