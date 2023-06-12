@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T13:24:54.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="w24iI1flzTbk2Rj5Rp_c" version="21.3.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-12T13:25:52.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="w2rq6N3hfW9Wit4iU6aa" version="21.3.8" type="github" pages="8">
   <diagram name="Halaman-1" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -944,7 +944,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="79orLKqr1iSw7EwP7TwU" name="Halaman-7">
-    <mxGraphModel dx="1591" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1023,10 +1023,10 @@
           <mxGeometry x="80" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mNPqhKrnZnL7EDHDlWla-21" value="Menampilkan Halaman&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tambah Data Penyakit" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="370" y="638" width="130" height="30" as="geometry" />
+          <mxGeometry x="370" y="630" width="130" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="mNPqhKrnZnL7EDHDlWla-22" value="Menampilkan Halaman&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Edit Data Penyakit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="636" width="133.5" height="32" as="geometry" />
+        <mxCell id="mNPqhKrnZnL7EDHDlWla-22" value="Menampilkan Halaman&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Edit Data Penyakit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="630" width="133.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="mNPqhKrnZnL7EDHDlWla-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mNPqhKrnZnL7EDHDlWla-17" target="mNPqhKrnZnL7EDHDlWla-21">
           <mxGeometry relative="1" as="geometry">
@@ -1110,7 +1110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lhCf7T5wYwauIWPZPhkh-1" value="Menampilkan Alert Konfirmasi Hapus Data Penyakit yang Dipilih" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="672" y="636" width="170" height="30" as="geometry" />
+          <mxGeometry x="672" y="630" width="170" height="36" as="geometry" />
         </mxCell>
         <mxCell id="lhCf7T5wYwauIWPZPhkh-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.459;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
