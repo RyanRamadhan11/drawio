@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T13:52:12.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Hw8JgJeT9rcIYw0srDnb" version="21.3.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-13T13:56:14.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vRFC9cVkR1b9fNmz59Q1" version="21.3.8" type="github" pages="12">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -775,7 +775,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6f0Upd5tdKeKH0hwm7c_-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin Mengelola&lt;br&gt;Data Pasien&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="6f0Upd5tdKeKH0hwm7c_-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin &lt;br&gt;Mengelola Data Pasien&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="60" width="680" height="710" as="geometry" />
         </mxCell>
         <mxCell id="6f0Upd5tdKeKH0hwm7c_-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#26BFBF;" parent="1" vertex="1">
@@ -947,14 +947,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="79orLKqr1iSw7EwP7TwU" name="Halaman-7">
-    <mxGraphModel dx="1311" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mNPqhKrnZnL7EDHDlWla-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#26BFBF;" parent="1" vertex="1">
           <mxGeometry x="328" y="129" width="532" height="671" as="geometry" />
         </mxCell>
-        <mxCell id="mNPqhKrnZnL7EDHDlWla-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin Mengelola&lt;br&gt;Data Penyakit&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="mNPqhKrnZnL7EDHDlWla-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin &lt;br&gt;Mengelola Data Penyakit&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="850" height="750" as="geometry" />
         </mxCell>
         <mxCell id="mNPqhKrnZnL7EDHDlWla-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#26BFBF;" parent="1" vertex="1">
@@ -1154,21 +1154,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3yQf5AsqORtmJ8Zlj5eV-1" value="Login Admin&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sistem Pakar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#CCFFFF;strokeColor=#26BFBF;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="3yQf5AsqORtmJ8Zlj5eV-1" value="Login Admin&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Sistem Pakar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#CCFFFF;strokeColor=#26BFBF;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="122.25" y="230" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dSCuj_qNFynMz6J0Q9Dx" name="Halaman-8">
-    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y252vmbxA1JrDyipGJ17-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#26BFBF;" parent="1" vertex="1">
           <mxGeometry x="338" y="139" width="532" height="671" as="geometry" />
         </mxCell>
-        <mxCell id="y252vmbxA1JrDyipGJ17-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin Mengelola&lt;br&gt;Data Gejala&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="y252vmbxA1JrDyipGJ17-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin &lt;br&gt;Mengelola Data Gejala&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="850" height="750" as="geometry" />
         </mxCell>
         <mxCell id="y252vmbxA1JrDyipGJ17-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#26BFBF;" parent="1" vertex="1">
@@ -1372,14 +1372,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FD5cKW7FytJW1A1N0Z4A" name="Halaman-9">
-    <mxGraphModel dx="768" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nRKAW8h9nwbvP-jSrXrX-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="338" y="139" width="602" height="671" as="geometry" />
         </mxCell>
-        <mxCell id="nRKAW8h9nwbvP-jSrXrX-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin Mengelola&lt;br&gt;Data Basis Pengetahuan&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=40;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="nRKAW8h9nwbvP-jSrXrX-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Activity Admin &lt;br&gt;Mengelola Data Basis Pengetahuan&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=40;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="920" height="750" as="geometry" />
         </mxCell>
         <mxCell id="nRKAW8h9nwbvP-jSrXrX-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=default;" parent="1" vertex="1">
