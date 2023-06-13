@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T08:21:58.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6-5yQPcyKJVu5ClpZ0-N" version="21.3.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-13T12:04:59.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZTEcObIlHUeiS72qumwY" version="21.3.8" type="github" pages="12">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JjWnMcaFE4EpU_yhTdge" name="Halaman-3">
-    <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7uN-iu1EKojc8YytQctq" name="Halaman-4">
-    <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -771,7 +771,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5OeQ41jLmvfH-CkP_fNZ" name="Halaman-6">
-    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,26 +816,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6f0Upd5tdKeKH0hwm7c_-14" value="Memilih Menu &lt;br&gt;Data Pasien" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="210" y="284" width="131.37" height="35" as="geometry" />
+          <mxGeometry x="210" y="320" width="131.37" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6f0Upd5tdKeKH0hwm7c_-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6f0Upd5tdKeKH0hwm7c_-14" target="6f0Upd5tdKeKH0hwm7c_-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="375" as="targetPoint" />
             <mxPoint x="280" y="340" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="281" y="360" />
-              <mxPoint x="460" y="360" />
+              <mxPoint x="276" y="360" />
+              <mxPoint x="276" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6f0Upd5tdKeKH0hwm7c_-16" value="Menampilkan Halaman&lt;br&gt;&amp;nbsp;Data Pasien" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="460" y="340" width="140" height="40" as="geometry" />
+          <mxGeometry x="466" y="370" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6f0Upd5tdKeKH0hwm7c_-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6f0Upd5tdKeKH0hwm7c_-16" target="UuJUd4i3hQKjcrpPIAvF-4" edge="1">
+        <mxCell id="6f0Upd5tdKeKH0hwm7c_-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.458;exitY=1.026;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="6f0Upd5tdKeKH0hwm7c_-16" target="UuJUd4i3hQKjcrpPIAvF-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="405" />
+              <mxPoint x="530" y="429" />
             </Array>
             <mxPoint x="530" y="382" as="sourcePoint" />
           </mxGeometry>
@@ -844,7 +844,7 @@
           <mxGeometry x="191.88" y="490" width="178.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UuJUd4i3hQKjcrpPIAvF-4" value="Memilih Opsi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="211.37" y="390" width="118.63" height="30" as="geometry" />
+          <mxGeometry x="210" y="414" width="118.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UuJUd4i3hQKjcrpPIAvF-9" value="Edit" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="191.88" y="550" width="78.75" height="30" as="geometry" />
@@ -876,7 +876,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270.63" y="473" as="targetPoint" />
             <mxPoint x="270.63" y="420" as="sourcePoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="271" y="444" />
+              <mxPoint x="271" y="467" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UuJUd4i3hQKjcrpPIAvF-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UuJUd4i3hQKjcrpPIAvF-9" target="UuJUd4i3hQKjcrpPIAvF-17" edge="1">
@@ -944,7 +947,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="79orLKqr1iSw7EwP7TwU" name="Halaman-7">
-    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dSCuj_qNFynMz6J0Q9Dx" name="Halaman-8">
-    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
