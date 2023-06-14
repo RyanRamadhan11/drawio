@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:43:55.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5NxzJ5o7sYGqFrRszy5b" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-14T02:45:43.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PzE9sTeI4n3b_obho06g" version="21.3.8" type="github" pages="13">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1757,8 +1757,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vn5CJ_3pD6O4l_N0VthM-11" value="Form Login" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="160" y="110" width="110" height="250" as="geometry" />
+        <mxCell id="Vn5CJ_3pD6O4l_N0VthM-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Login&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
+          <mxGeometry x="160" y="110" width="110" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Vn5CJ_3pD6O4l_N0VthM-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="Vn5CJ_3pD6O4l_N0VthM-11" vertex="1">
           <mxGeometry x="50" y="80" width="10" height="30" as="geometry" />
@@ -1766,7 +1766,7 @@
         <mxCell id="0WEE4CG7w_QLrUTIcHjc-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="Vn5CJ_3pD6O4l_N0VthM-11" vertex="1">
           <mxGeometry x="50" y="140" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JRJrzxqB5dM6p0QbgP72-1" value="Verifikasi Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
+        <mxCell id="JRJrzxqB5dM6p0QbgP72-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Verifikasi Database&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="300" y="110" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0WEE4CG7w_QLrUTIcHjc-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;strokeColor=#26BFBF;" parent="JRJrzxqB5dM6p0QbgP72-1" vertex="1">
@@ -1785,7 +1785,7 @@
         <mxCell id="0WEE4CG7w_QLrUTIcHjc-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;fillColor=#CCFFFF;strokeColor=#26BFBF;" parent="JRJrzxqB5dM6p0QbgP72-1" vertex="1">
           <mxGeometry x="50" y="170" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JRJrzxqB5dM6p0QbgP72-3" value="Halaman Dashboard Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
+        <mxCell id="JRJrzxqB5dM6p0QbgP72-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Halaman &lt;br&gt;Dashboard Admin&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="440" y="110" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="JRJrzxqB5dM6p0QbgP72-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" parent="JRJrzxqB5dM6p0QbgP72-3" vertex="1">
