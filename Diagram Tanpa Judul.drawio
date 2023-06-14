@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T04:05:21.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="F-BEewa11nbMZ9PY_eEZ" version="21.3.8" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-06-14T04:05:58.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QE6aZDlSEX66ypQ7Y_7t" version="21.3.8" type="github" pages="26">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3015,6 +3015,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r88ckg1B_yTtT1N5hl7J-6" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2: Menampilkan M&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enu&amp;nbsp;Blog(&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="r88ckg1B_yTtT1N5hl7J-4" target="r88ckg1B_yTtT1N5hl7J-2">
+          <mxGeometry x="0.002" width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="sourcePoint" />
+            <mxPoint x="130" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="170" y="230" />
+              <mxPoint x="210" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="McTX_8e9J2O21CC6PwOC" name="Halaman-26">
+    <mxGraphModel dx="768" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Sequence Diagram&lt;br&gt;Melihat About&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=40;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-3" value="Menu About" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="PgFxKyN5UIp8wO7NopgR-3">
+          <mxGeometry x="50" y="80" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1: Memilih Menu About()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" target="PgFxKyN5UIp8wO7NopgR-4">
+          <mxGeometry x="-0.0051" width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="160" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgFxKyN5UIp8wO7NopgR-6" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2: Menampilkan M&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enu&amp;nbsp;About(&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="PgFxKyN5UIp8wO7NopgR-4" target="PgFxKyN5UIp8wO7NopgR-2">
           <mxGeometry x="0.002" width="80" relative="1" as="geometry">
             <mxPoint x="210" y="220" as="sourcePoint" />
             <mxPoint x="130" y="220" as="targetPoint" />
