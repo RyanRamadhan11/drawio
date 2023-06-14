@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T04:56:33.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MKfu7qRuieiJlTdJpkTo" version="21.3.8" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-06-14T05:01:20.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="x7RNcp8b2qRUBJMZ_pT9" version="21.3.8" type="github" pages="27">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2306,7 +2306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e950swx_o46eHPnHzd97-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;5: Berhasil Mengedit Data()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1">
-          <mxGeometry x="0.0021" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="310" as="sourcePoint" />
             <mxPoint x="220" y="310" as="targetPoint" />
             <mxPoint as="offset" />
@@ -2613,7 +2613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zTGTy7jBnuY_EfkK26_C" name="Halaman-21">
-    <mxGraphModel dx="928" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2701,14 +2701,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9kBt2rNMvb-nVvvoe7d-17" value="&lt;div style=&quot;text-align: justify; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;5: Berhasil Menambahkan Data()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d9kBt2rNMvb-nVvvoe7d-11" target="d9kBt2rNMvb-nVvvoe7d-5">
-          <mxGeometry x="0.0018" width="80" relative="1" as="geometry">
+        <mxCell id="TTfgaiBbAFmkAAlahNHL-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;5: Berhasil Menambahkan Data()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
             <mxPoint x="600" y="310" as="sourcePoint" />
-            <mxPoint x="480" y="310" as="targetPoint" />
+            <mxPoint x="220" y="310" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="550" y="310" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
@@ -2803,21 +2800,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-17" value="&lt;div style=&quot;text-align: justify; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;5: Berhasil Mengedit Data()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-11" target="tXlLZomghM2V6CVdZChx-5">
-          <mxGeometry x="0.0018" width="80" relative="1" as="geometry">
+        <mxCell id="lmLSmD2_tdk9Syc6AgLy-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;5: Berhasil Mengedit Data()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="310" as="sourcePoint" />
-            <mxPoint x="480" y="310" as="targetPoint" />
+            <mxPoint x="220" y="310" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="550" y="310" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XBxotDkuHv4nTW5X6E9d" name="Halaman-23">
-    <mxGraphModel dx="928" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2905,14 +2899,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kiK6LzwUxN9kYR9F6VFk-17" value="&lt;div style=&quot;text-align: justify; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;5: Berhasil Menghapus Data()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kiK6LzwUxN9kYR9F6VFk-11" target="kiK6LzwUxN9kYR9F6VFk-5">
-          <mxGeometry x="0.0018" width="80" relative="1" as="geometry">
-            <mxPoint x="600" y="310" as="sourcePoint" />
-            <mxPoint x="480" y="310" as="targetPoint" />
+        <mxCell id="6R2oKTxEZuIVtGlTBxDq-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;5: Berhasil Menghapus Data()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
+            <mxPoint x="605" y="310" as="sourcePoint" />
+            <mxPoint x="220" y="310" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="550" y="310" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
