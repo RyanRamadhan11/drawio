@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T04:32:57.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MOQQj5z4I8-8UcpJpwL_" version="21.3.8" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-06-14T04:37:43.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SGx_i0ryyu_bIeUXtDbA" version="21.3.8" type="github" pages="27">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1737,7 +1737,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UOT3PzN0inVsTc55_pZV" name="Sequence Diagram">
-    <mxGraphModel dx="518" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1801,16 +1801,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0WEE4CG7w_QLrUTIcHjc-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;2.2: LoginGagal&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" parent="1" source="0WEE4CG7w_QLrUTIcHjc-1" target="0WEE4CG7w_QLrUTIcHjc-4" edge="1">
-          <mxGeometry x="-0.0031" width="80" relative="1" as="geometry">
-            <mxPoint x="220" y="250" as="sourcePoint" />
-            <mxPoint x="220" y="250" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="300" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0WEE4CG7w_QLrUTIcHjc-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;2: Login Berhasil&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;align=center;strokeColor=#26BFBF;" parent="1" source="0WEE4CG7w_QLrUTIcHjc-5" target="JRJrzxqB5dM6p0QbgP72-8" edge="1">
           <mxGeometry x="-0.0037" width="80" relative="1" as="geometry">
             <mxPoint x="358" y="310" as="sourcePoint" />
@@ -1819,6 +1809,12 @@
             <Array as="points">
               <mxPoint x="438" y="310" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Y9hGIGVUrMJykaYs5Db-1" value="2.2: Login Gagal" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1" source="JRJrzxqB5dM6p0QbgP72-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="250" as="sourcePoint" />
+            <mxPoint x="220" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -3050,15 +3046,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PgFxKyN5UIp8wO7NopgR-6" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2: Menampilkan M&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enu&amp;nbsp;About(&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="PgFxKyN5UIp8wO7NopgR-4" target="PgFxKyN5UIp8wO7NopgR-2">
-          <mxGeometry x="0.002" width="80" relative="1" as="geometry">
-            <mxPoint x="210" y="220" as="sourcePoint" />
-            <mxPoint x="130" y="220" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="170" y="230" />
-              <mxPoint x="210" y="230" />
-            </Array>
+        <mxCell id="H6Q6KuqKXmNcLQo-JVgH-1" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 10px; text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;2: Menampilkan M&lt;/font&gt;enu&amp;nbsp;About(&lt;font style=&quot;border-color: var(--border-color); font-size: 10px; text-align: justify; background-color: initial;&quot;&gt;)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1" target="PgFxKyN5UIp8wO7NopgR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="230.31" as="sourcePoint" />
+            <mxPoint x="150" y="230.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
