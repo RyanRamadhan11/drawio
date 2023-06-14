@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T05:01:20.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="x7RNcp8b2qRUBJMZ_pT9" version="21.3.8" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2023-06-14T05:10:48.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DWvK3zaABU0ts8L-kRbK" version="21.3.8" type="github" pages="27">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2910,7 +2910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h4fy5ZAO4eGnxJV-GeEP" name="Halaman-24">
-    <mxGraphModel dx="530" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2936,14 +2936,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhHiALYLVlS-HOoes9_0-1" value="&lt;div style=&quot;text-align: justify; font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;2: Menampilkan Data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; Riwayat Konsultasi()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="ApFdghSuSPHDx19Un4Rc-4" target="ApFdghSuSPHDx19Un4Rc-2">
-          <mxGeometry x="0.002" width="80" relative="1" as="geometry">
-            <mxPoint x="210" y="220" as="sourcePoint" />
-            <mxPoint x="130" y="220" as="targetPoint" />
-            <mxPoint as="offset" />
+        <mxCell id="AjjObwFJXfX2wS3LtG5F-1" value="&lt;div style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251); text-align: justify; font-size: 9px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;2: Menampilkan Data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251); font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; Riwayat Konsultasi()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;strokeColor=#26BFBF;" edge="1" parent="1" source="ApFdghSuSPHDx19Un4Rc-4" target="ApFdghSuSPHDx19Un4Rc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="230" as="sourcePoint" />
+            <mxPoint x="135" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="230" />
-              <mxPoint x="210" y="230" />
+              <mxPoint x="160" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
