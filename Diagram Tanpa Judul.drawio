@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:56:53.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dDxwHD_7lIaNW2dDCng4" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-14T02:57:59.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="v3TDzztrM6rUD7Idt43M" version="21.3.8" type="github" pages="15">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1927,7 +1927,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5jFJlMyQygWEd8uVesg8" name="Halaman-14">
-    <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="446" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1985,13 +1985,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SDx3TZ8puM6ibLViNSJ-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;2: Memilih Edit&lt;br&gt;Data Penyakit()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9SDx3TZ8puM6ibLViNSJ-4" edge="1">
-          <mxGeometry x="-0.0056" width="80" relative="1" as="geometry">
-            <mxPoint x="220" y="220" as="sourcePoint" />
-            <mxPoint x="340" y="220" as="targetPoint" />
+        <mxCell id="9SDx3TZ8puM6ibLViNSJ-14" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2: Memilih Data &lt;br&gt;Penyakit&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;yang akan di edit()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;align=center;" parent="1" source="9SDx3TZ8puM6ibLViNSJ-4" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="221" y="220" as="sourcePoint" />
+            <mxPoint x="341" y="220" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="300" y="220" />
+              <mxPoint x="301" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
