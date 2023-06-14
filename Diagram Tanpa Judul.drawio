@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T03:45:55.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iogwNOlUQd4rWvQhbFwU" version="21.3.8" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-06-14T03:46:54.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tPmZWsufVdhSdl_keqUn" version="21.3.8" type="github" pages="22">
   <diagram name="Use Case" id="xa_9cUXO3RMpBKNxqR6e">
     <mxGraphModel dx="1114" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2743,7 +2743,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9JRfC-XHvM0GN9c2K2Sm" name="Halaman-22">
-    <mxGraphModel dx="1114" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2753,7 +2753,7 @@
         <mxCell id="tXlLZomghM2V6CVdZChx-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="110" width="20" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-3" value="Menu &lt;br style=&quot;font-size: 10px;&quot;&gt;Data Gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tXlLZomghM2V6CVdZChx-3" value="Menu Data&amp;nbsp;&lt;br&gt;Basis Pengetahuan" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tXlLZomghM2V6CVdZChx-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="tXlLZomghM2V6CVdZChx-3">
@@ -2762,13 +2762,13 @@
         <mxCell id="tXlLZomghM2V6CVdZChx-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="tXlLZomghM2V6CVdZChx-3">
           <mxGeometry x="50" y="200" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-6" value="Edit&lt;br style=&quot;font-size: 10px;&quot;&gt;Data Gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tXlLZomghM2V6CVdZChx-6" value="Edit Data&amp;nbsp;&lt;br&gt;Basis Pengetahuan" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tXlLZomghM2V6CVdZChx-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;strokeColor=#26BFBF;" vertex="1" parent="tXlLZomghM2V6CVdZChx-6">
           <mxGeometry x="50" y="110" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-8" value="Form Edit&lt;br style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Data Gejala" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tXlLZomghM2V6CVdZChx-8" value="Form Edit Data &lt;br&gt;Basis Pengetahuan" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="110" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tXlLZomghM2V6CVdZChx-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;strokeColor=#26BFBF;fillColor=#CCFFFF;" vertex="1" parent="tXlLZomghM2V6CVdZChx-8">
@@ -2791,7 +2791,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1: Memilih Menu &lt;br&gt;Data Gejala()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=0.5;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-2" target="tXlLZomghM2V6CVdZChx-4">
+        <mxCell id="tXlLZomghM2V6CVdZChx-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1: Memilih Menu &lt;br&gt;Data&amp;nbsp;Basis Pengetahuan()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;exitX=0.5;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-2" target="tXlLZomghM2V6CVdZChx-4">
           <mxGeometry x="-0.0066" width="80" relative="1" as="geometry">
             <mxPoint x="80" y="190" as="sourcePoint" />
             <mxPoint x="210" y="190" as="targetPoint" />
@@ -2801,7 +2801,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-14" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2: Memilih Data &lt;br&gt;Gejala&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;yang akan di edit()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;align=center;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-4">
+        <mxCell id="tXlLZomghM2V6CVdZChx-14" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2: Memilih Data&amp;nbsp;&lt;/span&gt;Basis &lt;br&gt;Pengetahuan&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;yang akan di edit()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;align=center;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="221" y="220" as="sourcePoint" />
             <mxPoint x="341" y="220" as="targetPoint" />
@@ -2811,7 +2811,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tXlLZomghM2V6CVdZChx-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;3: Mengisi Form Edit&lt;br&gt;Data Gejala()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-7">
+        <mxCell id="tXlLZomghM2V6CVdZChx-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;3: Mengisi Form Edit&lt;br&gt;Data&amp;nbsp;Basis Pengetahuan()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;strokeColor=#26BFBF;" edge="1" parent="1" source="tXlLZomghM2V6CVdZChx-7">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="354" y="250" as="sourcePoint" />
             <mxPoint x="470" y="250" as="targetPoint" />
