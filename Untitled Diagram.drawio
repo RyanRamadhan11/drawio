@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T03:22:28.777Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="W4RmGBBA66nnZEKJQNIV" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T03:43:43.951Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Cmb1Qa3FDVxIl_84MgR0" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="941" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,11 +10,8 @@
             <mxPoint x="260" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-2" value="siapkan beras 2 gelas,&lt;br&gt; air secukupnya, alat masak " style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-2" value="masukan kartu atm &lt;br&gt;kedalam mesin atm" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="151" y="170" width="218" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-3" value="Pertama cuci beras dengan air hingga bersih&lt;br&gt; lakukan dua kali cuci " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="280" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -34,32 +31,20 @@
         <mxCell id="iI63qpxl3PrZ1tXXogWA-12" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="992" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-14" value="setelah bersih masukan beras dan juga air ke dalam panci magic com" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="430" width="160" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="380" as="sourcePoint" />
-            <mxPoint x="260" y="430" as="targetPoint" />
+            <mxPoint x="259.66" y="340" as="sourcePoint" />
+            <mxPoint x="259.66" y="390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-17" value="colokkan kabel magic com ke kontak listrik dan klik tombol on pada magic com" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="580" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="530" as="sourcePoint" />
-            <mxPoint x="260" y="580" as="targetPoint" />
+            <mxPoint x="260.66" y="450" as="sourcePoint" />
+            <mxPoint x="260.66" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-19" value="setelah itu tunggu hingga magic com memberi tanda seperti bunyi yang menandakan nasi sudah matang." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="730" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="680" as="sourcePoint" />
-            <mxPoint x="260" y="730" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -69,6 +54,40 @@
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-22" value="nasi sudah siap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="151" y="880" width="219" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-28" value="Pilih bahasa" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="280" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-29" value="Masukkan Pin ATM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="152" y="390" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-31" value="Apakah pin sudah benar?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="500" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-35" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.878;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="iI63qpxl3PrZ1tXXogWA-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="340" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="550" />
+              <mxPoint x="400" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-36" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259.76000000000005" y="600" as="sourcePoint" />
+            <mxPoint x="259.76000000000005" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-37" value="Pilih Jenis Transaksi " style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="152" y="650" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-38" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="394" y="470" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="600" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
