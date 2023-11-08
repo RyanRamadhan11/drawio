@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T03:20:08.312Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="EpdpP-_hSWxwKEa8o1V1" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T03:22:02.346Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="qRyT5rFPAFfeqPpYx21x" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="941" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
             <mxPoint x="260" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iI63qpxl3PrZ1tXXogWA-2" value="siapkan nasi,&lt;br&gt; air, alat masak " style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="162" y="170" width="200" height="60" as="geometry" />
+        <mxCell id="iI63qpxl3PrZ1tXXogWA-2" value="siapkan beras 2 gelas,&lt;br&gt; air secukupnya, alat masak " style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="170" width="218" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-3" value="Pertama cuci beras dengan air hingga bersih&lt;br&gt; lakukan dua kali cuci " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="280" width="160" height="100" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iI63qpxl3PrZ1tXXogWA-22" value="nasi sudah siap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="880" width="200" height="60" as="geometry" />
+          <mxGeometry x="151" y="880" width="219" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
